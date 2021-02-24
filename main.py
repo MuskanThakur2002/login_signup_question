@@ -8,9 +8,6 @@ if user=="1":
     if user_name in n:
         print("user_name already exists")
     else:
-
-
-        
         password_1=input("enter password")
         if "#" in password_1 or "@" in password_1 :
             password_2=input("enter password again")
