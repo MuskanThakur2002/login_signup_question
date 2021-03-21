@@ -64,24 +64,3 @@ elif user=="2":
             print("password is incorrect")
     else:
         print("invalid User_Name")
-
-
-
-
-definations
-variable
-conversion
-operator
-if/else
-nested if 
-while Loop
-nested while Loop
-list
-tuple
-array
-dictionary
-set
-function
-json
-file
-hangman
